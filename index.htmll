@@ -1,23 +1,54 @@
-index.html
+
+
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-  <title>Afsha | Portfolio</title>
+    <meta charset="UTF-8">
+    <title>Afsha Ansari | Web Developer</title>
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
 
-  <h1>Hello, I am Afsha Ansari 👋</h1>
-  <p>I am learning Web Development.</p>
+    <!-- HERO SECTION -->
+    <header class="hero">
+        <h1>Afsha Ansari</h1>
+        <p>Web Developer</p>
+    </header>
 
-  <h2>Skills</h2>
-  <ul>
-    <li>HTML</li>
-    <li>CSS</li>
-    <li>JavaScript</li>
-  </ul>
+    <!-- ABOUT -->
+    <section class="about">
+        <h2>About Me</h2>
+        <p>
+            I am a beginner web developer learning HTML, CSS and JavaScript.
+            I enjoy creating simple and clean websites.
+        </p>
+    </section>
 
-  <h2>Contact</h2>
-  <p>Email: afsha0646@gmail.com</p>
+    <!-- SKILLS -->
+    <section class="skills">
+        <h2>Skills</h2>
+        <ul>
+            <li>HTML</li>
+            <li>CSS</li>
+            <li>JavaScript (Basic)</li>
+        </ul>
+    </section>
+
+    <!-- PROJECTS -->
+    <section class="projects">
+        <h2>Projects</h2>
+        <p>Personal Portfolio Website</p>
+        <a href="https://afsha0646.github.io/personal-portfolio/" target="_blank">
+            View Live
+        </a>
+    </section>
+
+    <!-- CONTACT -->
+    <section class="contact">
+        <h2>Contact</h2>
+        <p>Email: afsha@example.com</p>
+        <p>GitHub: github.com/afsha0646</p>
+    </section>
 
 </body>
 </html>
