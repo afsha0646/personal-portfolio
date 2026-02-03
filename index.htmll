@@ -1,0 +1,23 @@
+index.html
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Afsha | Portfolio</title>
+</head>
+<body>
+
+  <h1>Hello, I am Afsha Ansari 👋</h1>
+  <p>I am learning Web Development.</p>
+
+  <h2>Skills</h2>
+  <ul>
+    <li>HTML</li>
+    <li>CSS</li>
+    <li>JavaScript</li>
+  </ul>
+
+  <h2>Contact</h2>
+  <p>Email: your-email@gmail.com</p>
+
+</body>
+</html>
